@@ -1,0 +1,1 @@
+[Leia este README em inglês](README.md)
